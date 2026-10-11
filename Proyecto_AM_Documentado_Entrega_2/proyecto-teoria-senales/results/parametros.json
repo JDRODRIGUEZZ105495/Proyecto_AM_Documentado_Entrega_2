@@ -1,0 +1,18 @@
+{
+  "fs_Hz": 44100,
+  "Ts_s": 2.2675736961451248e-05,
+  "N": 4410,
+  "duracion_s": 0.1,
+  "fm_Hz": 440,
+  "fc_Hz": 10000,
+  "Am": 1.0,
+  "Ac": 1.0,
+  "indice_modulacion": 0.8,
+  "semilla": 2026,
+  "filtro_orden_diseno": 4,
+  "filtro_corte_Hz": 880,
+  "python": "3.11.9",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "matplotlib": "3.10.8"
+}
