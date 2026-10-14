@@ -1,4 +1,0 @@
-Generamos un tono de 440 Hz y una portadora de 10 kHz, muestreados a 44.1 kHz.
-Implementamos modulación AM, un canal con ruido gaussiano y recepción por envolvente y filtrado.
-Representamos las señales en tiempo y frecuencia y calculamos características, MSE y correlación.
-Quedan pendientes la carga de audio real y la validación en varios escenarios y con recepción causal.
