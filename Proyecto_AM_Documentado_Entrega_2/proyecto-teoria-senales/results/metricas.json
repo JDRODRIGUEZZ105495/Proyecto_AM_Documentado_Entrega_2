@@ -1,0 +1,13 @@
+{
+  "SNR_objetivo_dB": 20,
+  "SNR_medida_dB": 19.933832645544257,
+  "MSE_registro_completo": 0.002566431682188956,
+  "correlacion_registro_completo": 0.9988980514138497,
+  "MSE_interior": 0.002310216631287605,
+  "correlacion_interior": 0.999136303598151,
+  "intervalo_interior_s": [
+    0.01,
+    0.09000000000000001
+  ],
+  "factor_normalizacion": 1.1921412474761792
+}
